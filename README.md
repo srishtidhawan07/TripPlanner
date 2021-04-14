@@ -1,4 +1,4 @@
-#About
+# About
 
 The idea was to make a trip planner, where the user enter the place he wants to visit, and all the
  details like the temperature of that place for the next two weeks, places to visit with ratings;
