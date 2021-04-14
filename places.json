@@ -1,0 +1,314 @@
+[
+    {
+        "the temperature for the next two weeks is": [
+            "14 April",
+            " temperature: 39 / 24 °C",
+            "15 April",
+            " temperature: 38 / 22 °C",
+            "16 April",
+            " temperature: 38 / 22 °C",
+            "17 April",
+            " temperature: 33 / 20 °C",
+            "18 April",
+            " temperature: 35 / 20 °C",
+            "19 April",
+            " temperature: 37 / 20 °C",
+            "20 April",
+            " temperature: 36 / 25 °C",
+            "21 April",
+            " temperature: 28 / 21 °C",
+            "22 April",
+            " temperature: 34 / 21 °C",
+            "23 April",
+            " temperature: 36 / 24 °C",
+            "24 April",
+            " temperature: 37 / 25 °C",
+            "25 April",
+            " temperature: 38 / 25 °C",
+            "26 April",
+            " temperature: 39 / 25 °C",
+            "27 April",
+            " temperature: 40 / 25 °C",
+            "28 April",
+            " temperature: 42 / 26 °C"
+        ]
+    },
+    {
+        "Some exciting place to visit here": [
+            {
+                "PlaceToVisit": "Sukhna Lake",
+                "ratings": "4.6 out of 5 stars from 6,427 reviews"
+            },
+            {
+                "PlaceToVisit": "Zakir Hussain Rose Garden (Chandigarh)",
+                "ratings": "4.4 out of 5 stars from 27,173 reviews"
+            },
+            {
+                "PlaceToVisit": "Government Museum and Art Gallery",
+                "ratings": "4.4 out of 5 stars from 1,811 reviews"
+            },
+            {
+                "PlaceToVisit": "Capitol Complex Tourist Center",
+                "ratings": "4.5 out of 5 stars from 887 reviews"
+            },
+            {
+                "PlaceToVisit": "Elante Mall",
+                "ratings": "4.3 out of 5 stars from 14,965 reviews"
+            },
+            {
+                "PlaceToVisit": "M.C. Zoological Park, Chhat Bir Zoo, Zirakpur",
+                "ratings": "4.5 out of 5 stars from 685 reviews"
+            },
+            {
+                "PlaceToVisit": "Open Hand Monument",
+                "ratings": "4.9 out of 5 stars from 17,675 reviews"
+            },
+            {
+                "PlaceToVisit": "Gurudwara Nada Sahib, Panchkula",
+                "ratings": "4.8 out of 5 stars from 7,637 reviews"
+            }
+        ]
+    },
+    {
+        "Some nice places to stay": [
+            {
+                "HotelName": "Hotel Emerald Chandigarh",
+                "PricePerDay": "₹2,127",
+                "Ratings": "4.0",
+                "knowMore": "https://www.google.com/travel/hotels/Chandigarh/entity/CgsIkpy6-YGmsImvARABGnxBR1pJRWdZMUs4THBjU2FGbVRBMzBDS1N1MzQwR0RvNjhhdnB2RFM5TzBoRlkxa0N4Q0lvLUR2djk0TGNwbzZwM0NYWllCanI0WFJac3RzNGNVaE13Q3p3MG5laGJGekNQdklFOHlPeTNKMGVkSG9HbTM4MHdMSTZJdkZX?tcfs=EhcKCS9tLzAxZjFxOBIKQ2hhbmRpZ2FyaA&ts=CAESABo5ChsSFwoJL20vMDFmMXE4OgpDaGFuZGlnYXJoGgASGhIUCgcI5Q8QBBgPEgcI5Q8QBBgQGAEyAhAAKg8KCygBSgIgAToDSU5SGgA&ved=0CI8BEMr3BGoXChMIuOnx-O397wIVAAAAAB0AAAAAEAo&ictx=3&rp=OAE"
+            },
+            {
+                "HotelName": "The Pearl",
+                "PricePerDay": "₹2,099",
+                "Ratings": "3.8",
+                "knowMore": "https://www.google.com/travel/hotels/Chandigarh/entity/CgsIxYGQmrK-wY-VARABGntBR1pJRWdhNzhDMkl2aktDNVZMcTlqUzNWbGJMOFBES2EyUHJtaEtpbVdpSTg4QjFhVFktaTBWcmxzZWExMktUS0hNNFc1QmZvX21Xc2poWDN4d0c1VzNuYzFOaVE0cjVscmphVmtvTWdTOTlwT0JaMkx3bm9mSkRVNE0?tcfs=EhcKCS9tLzAxZjFxOBIKQ2hhbmRpZ2FyaA&ts=CAESABo5ChsSFwoJL20vMDFmMXE4OgpDaGFuZGlnYXJoGgASGhIUCgcI5Q8QBBgPEgcI5Q8QBBgQGAEyAhAAKg8KCygBSgIgAToDSU5SGgA&ved=0CKUBEMr3BGoXChMIuOnx-O397wIVAAAAAB0AAAAAEAo&ictx=3&rp=OAE"
+            },
+            {
+                "HotelName": "Hotel Empire Inn",
+                "PricePerDay": "₹685",
+                "Ratings": "3.5",
+                "knowMore": "https://www.google.com/travel/hotels/Chandigarh/entity/ChkI7KmOzeWT0oJEGg0vZy8xMWM2N3dmMTlrEAE?tcfs=EhcKCS9tLzAxZjFxOBIKQ2hhbmRpZ2FyaA&ts=CAESABo5ChsSFwoJL20vMDFmMXE4OgpDaGFuZGlnYXJoGgASGhIUCgcI5Q8QBBgPEgcI5Q8QBBgQGAEyAhAAKg8KCygBSgIgAToDSU5SGgA&ved=0CLsBEMr3BGoXChMIuOnx-O397wIVAAAAAB0AAAAAEAo&ictx=3&rp=OAE"
+            },
+            {
+                "HotelName": "Hotel Diamond Inn",
+                "PricePerDay": "₹786 Deal 18% less than usual",
+                "Ratings": "3.6",
+                "knowMore": "https://www.google.com/travel/hotels/Chandigarh/entity/ChgIw_61iN6GgZ8CGgwvZy8xaG0ycV9rbXoQAQ?tcfs=EhcKCS9tLzAxZjFxOBIKQ2hhbmRpZ2FyaA&ts=CAESABo5ChsSFwoJL20vMDFmMXE4OgpDaGFuZGlnYXJoGgASGhIUCgcI5Q8QBBgPEgcI5Q8QBBgQGAEyAhAAKg8KCygBSgIgAToDSU5SGgA&ved=0CNcBEMr3BGoXChMIuOnx-O397wIVAAAAAB0AAAAAEAo&ictx=3&rp=OAE"
+            },
+            {
+                "HotelName": "Hotel Pride",
+                "PricePerDay": "₹1,110 Great deal 47% less than usual",
+                "Ratings": "4.4",
+                "knowMore": "https://www.google.com/travel/hotels/Chandigarh/entity/ChgI4fuvmcKviNE8GgwvZy8xeWc2ZDE1eXkQAQ?tcfs=EhcKCS9tLzAxZjFxOBIKQ2hhbmRpZ2FyaA&ts=CAESABo5ChsSFwoJL20vMDFmMXE4OgpDaGFuZGlnYXJoGgASGhIUCgcI5Q8QBBgPEgcI5Q8QBBgQGAEyAhAAKg8KCygBSgIgAToDSU5SGgA&ved=0CO8BEMr3BGoXChMIuOnx-O397wIVAAAAAB0AAAAAEAo&ictx=3&rp=OAE"
+            },
+            {
+                "HotelName": "Hotel Oyster",
+                "PricePerDay": "₹1,537 Great deal 35% less than usual",
+                "Ratings": "4.0",
+                "knowMore": "https://www.google.com/travel/hotels/Chandigarh/entity/ChgI-KLK36nWqJshGgwvZy8xaG0yejBndzMQAQ?tcfs=EhcKCS9tLzAxZjFxOBIKQ2hhbmRpZ2FyaA&ts=CAESABo5ChsSFwoJL20vMDFmMXE4OgpDaGFuZGlnYXJoGgASGhIUCgcI5Q8QBBgPEgcI5Q8QBBgQGAEyAhAAKg8KCygBSgIgAToDSU5SGgA&ved=0CIcCEMr3BGoXChMIuOnx-O397wIVAAAAAB0AAAAAEAo&ictx=3&rp=OAE"
+            },
+            {
+                "HotelName": "Hotel City Lodge",
+                "PricePerDay": "₹498",
+                "Ratings": "3.9",
+                "knowMore": "https://www.google.com/travel/hotels/Chandigarh/entity/ChkI6NqM8bqKmZkZGg0vZy8xMWRfNjV2OTR0EAE?tcfs=EhcKCS9tLzAxZjFxOBIKQ2hhbmRpZ2FyaA&ts=CAESABo5ChsSFwoJL20vMDFmMXE4OgpDaGFuZGlnYXJoGgASGhIUCgcI5Q8QBBgPEgcI5Q8QBBgQGAEyAhAAKg8KCygBSgIgAToDSU5SGgA&ved=0CJ8CEMr3BGoXChMIuOnx-O397wIVAAAAAB0AAAAAEAo&ictx=3&rp=OAE"
+            },
+            {
+                "HotelName": "Hyatt Regency Chandigarh",
+                "PricePerDay": "₹9,044",
+                "Ratings": "4.5",
+                "knowMore": "https://www.google.com/travel/hotels/Chandigarh/entity/ChgIoKfOrPTbq6B6GgwvZy8xMnFoYzFzcDgQAQ?tcfs=EhcKCS9tLzAxZjFxOBIKQ2hhbmRpZ2FyaA&ts=CAESABo5ChsSFwoJL20vMDFmMXE4OgpDaGFuZGlnYXJoGgASGhIUCgcI5Q8QBBgPEgcI5Q8QBBgQGAEyAhAAKg8KCygBSgIgAToDSU5SGgA&ved=0CLUCEMr3BGoXChMIuOnx-O397wIVAAAAAB0AAAAAEAo&ictx=3&rp=OAE"
+            },
+            {
+                "HotelName": "JW Marriott Hotel Chandigarh",
+                "PricePerDay": "₹7,784",
+                "Ratings": "4.5",
+                "knowMore": "https://www.google.com/travel/hotels/Chandigarh/entity/ChcIn6b2m5-Al5J-GgsvZy8xdHp6c3g3ZxAB?tcfs=EhcKCS9tLzAxZjFxOBIKQ2hhbmRpZ2FyaA&ts=CAESABo5ChsSFwoJL20vMDFmMXE4OgpDaGFuZGlnYXJoGgASGhIUCgcI5Q8QBBgPEgcI5Q8QBBgQGAEyAhAAKg8KCygBSgIgAToDSU5SGgA&ved=0CMsCEMr3BGoXChMIuOnx-O397wIVAAAAAB0AAAAAEAo&ictx=3&rp=OAE"
+            },
+            {
+                "HotelName": "Hotel Royal Park 22",
+                "PricePerDay": "₹1,524 Deal 18% less than usual",
+                "Ratings": "3.7",
+                "knowMore": "https://www.google.com/travel/hotels/Chandigarh/entity/ChoI463G-p-c75bBARoNL2cvMTFiYnljcnN3axAB?tcfs=EhcKCS9tLzAxZjFxOBIKQ2hhbmRpZ2FyaA&ts=CAESABo5ChsSFwoJL20vMDFmMXE4OgpDaGFuZGlnYXJoGgASGhIUCgcI5Q8QBBgPEgcI5Q8QBBgQGAEyAhAAKg8KCygBSgIgAToDSU5SGgA&ved=0COECEMr3BGoXChMIuOnx-O397wIVAAAAAB0AAAAAEAo&ictx=3&rp=OAE"
+            },
+            {
+                "HotelName": "Hotel Dove Chandigarh",
+                "PricePerDay": "₹602 Great deal 25% less than usual",
+                "Ratings": "3.7",
+                "knowMore": "https://www.google.com/travel/hotels/Chandigarh/entity/ChgIkeLz8Y3rw9WfARoLL2cvMXRmbDgxMjYQAQ?tcfs=EhcKCS9tLzAxZjFxOBIKQ2hhbmRpZ2FyaA&ts=CAESABo5ChsSFwoJL20vMDFmMXE4OgpDaGFuZGlnYXJoGgASGhIUCgcI5Q8QBBgPEgcI5Q8QBBgQGAEyAhAAKg8KCygBSgIgAToDSU5SGgA&ved=0CPkCEMr3BGoXChMIuOnx-O397wIVAAAAAB0AAAAAEAo&ictx=3&rp=OAE"
+            },
+            {
+                "HotelName": "Hotel Turquoise",
+                "PricePerDay": "₹1,780",
+                "Ratings": "3.6",
+                "knowMore": "https://www.google.com/travel/hotels/Chandigarh/entity/ChkIjIGykceb18O5ARoML2cvMWhoZ2YycGc1EAE?tcfs=EhcKCS9tLzAxZjFxOBIKQ2hhbmRpZ2FyaA&ts=CAESABo5ChsSFwoJL20vMDFmMXE4OgpDaGFuZGlnYXJoGgASGhIUCgcI5Q8QBBgPEgcI5Q8QBBgQGAEyAhAAKg8KCygBSgIgAToDSU5SGgA&ved=0CJEDEMr3BGoXChMIuOnx-O397wIVAAAAAB0AAAAAEAo&ictx=3&rp=OAE"
+            },
+            {
+                "HotelName": "Hotel ReBirth",
+                "PricePerDay": "₹701",
+                "Ratings": "3.4",
+                "knowMore": "https://www.google.com/travel/hotels/Chandigarh/entity/ChoIrPusnu3I-9XwARoNL2cvMTFiNzc4Yjg1axAB?tcfs=EhcKCS9tLzAxZjFxOBIKQ2hhbmRpZ2FyaA&ts=CAESABo5ChsSFwoJL20vMDFmMXE4OgpDaGFuZGlnYXJoGgASGhIUCgcI5Q8QBBgPEgcI5Q8QBBgQGAEyAhAAKg8KCygBSgIgAToDSU5SGgA&ved=0CKcDEMr3BGoXChMIuOnx-O397wIVAAAAAB0AAAAAEAo&ictx=3&rp=OAE"
+            },
+            {
+                "HotelName": "Hotel KLG Starlite",
+                "PricePerDay": "₹2,152 Deal 20% less than usual",
+                "Ratings": "4.1",
+                "knowMore": "https://www.google.com/travel/hotels/Chandigarh/entity/ChgI0YPvqLuxutMrGgwvZy8xMjR0MDN5anMQAQ?tcfs=EhcKCS9tLzAxZjFxOBIKQ2hhbmRpZ2FyaA&ts=CAESABo5ChsSFwoJL20vMDFmMXE4OgpDaGFuZGlnYXJoGgASGhIUCgcI5Q8QBBgPEgcI5Q8QBBgQGAEyAhAAKg8KCygBSgIgAToDSU5SGgA&ved=0CL0DEMr3BGoXChMIuOnx-O397wIVAAAAAB0AAAAAEAo&ictx=3&rp=OAE"
+            }
+        ]
+    },
+    {
+        "Some nice restaraunts": [
+            {
+                "NameOfRestaraunt": "Pal Dhaba",
+                "RestarauntAddress": "SCO 151 & 152, Sector 28D Rd., Chandigarh, India",
+                "Reviews": "I visited chandigarh two days ago . And stayed at Madhya Marg ."
+            },
+            {
+                "NameOfRestaraunt": "Sundarams",
+                "RestarauntAddress": "35 Sco Madhya Marg, Chandigarh, India",
+                "Reviews": "This is a undiscovered gem of a South Indian restaurant in chandigarh."
+            },
+            {
+                "NameOfRestaraunt": "Nik Baker's",
+                "RestarauntAddress": "SCO 441 & 442, Sector 35C, Near Union Bank Of India, Sector 35, Chandigarh, India",
+                "Reviews": "Overall best place to dine if you are in Chandigarh."
+            },
+            {
+                "NameOfRestaraunt": "Barbeque Nation",
+                "RestarauntAddress": "39 Sco Madhya Marg, Chandigarh, India",
+                "Reviews": "for less than 10 people’s, you must go to Barbeque Nation at Sector 26, Chandigarh."
+            },
+            {
+                "NameOfRestaraunt": "Hot Millions",
+                "RestarauntAddress": "Sco 196 - 197, Chandigarh, India",
+                "Reviews": "Have been to this restaurant on every trip to Chandigarh."
+            },
+            {
+                "NameOfRestaraunt": "Sindhi's Sweets & Vegetarian Restaurants",
+                "RestarauntAddress": "Sco-108, Sector-17C, Chandigarh, India",
+                "Reviews": "I have visited in all of the branches of Sindhi sweets in Chandigarh."
+            },
+            {
+                "NameOfRestaraunt": "Chandigarh Baking Company",
+                "RestarauntAddress": "6 Lobby Level Dakshin Marg Plot No, Chandigarh, India",
+                "Reviews": "Really i have to admit the fact that coffee house in JW Marriott Chandigarh"
+            },
+            {
+                "NameOfRestaraunt": "Chandigarh Tandoori",
+                "RestarauntAddress": "rue de Lyon 67 Bis, Geneva, Switzerland",
+                "Reviews": "The Chandigarh Tandoori is a good Indian by any standard and for Geneva"
+            },
+            {
+                "NameOfRestaraunt": "Saffron",
+                "RestarauntAddress": "6 Dakshin Marg, Chandigarh, India",
+                "Reviews": "Great place to hangout.Great place to dine in Chandigarh."
+            },
+            {
+                "NameOfRestaraunt": "Sector 7 Social",
+                "RestarauntAddress": "Madhya Marg, Chandigarh, India",
+                "Reviews": "* This bar cum lounge is one of the best in Chandigarh. * The moment you"
+            },
+            {
+                "NameOfRestaraunt": "Karnal Haveli Restaurant",
+                "RestarauntAddress": "133.5 KM stone,GT Road, Karnal, Karnal District, Haryana, India",
+                "Reviews": "We had breakfast at this place while going to Chandigarh."
+            },
+            {
+                "NameOfRestaraunt": "Virgin Courtyard",
+                "RestarauntAddress": "1a Sco Madhya Marg, Sector 7c, Chandigarh, India",
+                "Reviews": "Chandigarh has it's own little Italy now!"
+            },
+            {
+                "NameOfRestaraunt": "Peddlers Pub",
+                "RestarauntAddress": "Sco 467 & 468 Sector 35/C, Chandigarh, India",
+                "Reviews": "Location: Sector 35, Chandigarh"
+            },
+            {
+                "NameOfRestaraunt": "Haldiram's",
+                "RestarauntAddress": "National Highway 22, Dera Bassi, Punjab, India",
+                "Reviews": "The place located on Ambala Chandigarh Highway near to Zirakpur."
+            },
+            {
+                "NameOfRestaraunt": "Swagath Restaurant & Bar",
+                "RestarauntAddress": "Madhya Marg, Chandigarh, India",
+                "Reviews": "Swagath restaurant, located in Sector 26 on Madhya Marg, Chandigarh is"
+            },
+            {
+                "NameOfRestaraunt": "Haveli",
+                "RestarauntAddress": "Grand Trunk Road, Jalandhar, Jalandhar District, Punjab, India",
+                "Reviews": "convenient for travellers making long road journeys between Amritsar and Chandigarh"
+            },
+            {
+                "NameOfRestaraunt": "AJA Fresh, Grilled & Healthy",
+                "RestarauntAddress": "S.c.o 129-131, Sector 9 Madhya Marg, Chandigarh, India",
+                "Reviews": "Best food in Chandigarh."
+            },
+            {
+                "NameOfRestaraunt": "Mainland China",
+                "RestarauntAddress": "40 Sco Madhya Marg, Chandigarh, India",
+                "Reviews": "The staff is very good.This is the best restaurant in Chandigarh1."
+            },
+            {
+                "NameOfRestaraunt": "Baluchi",
+                "RestarauntAddress": "I T Park Road, Chandigarh, India",
+                "Reviews": "It was a great visit to the lalit Chandigarh and excellent hospitality"
+            },
+            {
+                "NameOfRestaraunt": "Dera",
+                "RestarauntAddress": "Sector - 17 A 9 Dera Block No, Chandigarh, India",
+                "Reviews": "We were staying at Taj Chandigarh and had breakfast in Dera Restaurant."
+            },
+            {
+                "NameOfRestaraunt": "24/7 Restaurant at The Lalit Chandigarh",
+                "RestarauntAddress": "Rajiv Gandhi IT Park, Chandigarh, India",
+                "Reviews": "It is one of the best 5 star restaurants in chandigarh......"
+            },
+            {
+                "NameOfRestaraunt": "Gopal Sweets",
+                "RestarauntAddress": "SCO 20-21, Sec. 8-C, Chandigarh, India",
+                "Reviews": "Gopal Sweets is a well known Brand in Chandigarh."
+            },
+            {
+                "NameOfRestaraunt": "OKO",
+                "RestarauntAddress": "Near Dlf Commercial Complex, Chandigarh, India",
+                "Reviews": "The hospitality and the food at the Lalit Chandigarh amaze me."
+            },
+            {
+                "NameOfRestaraunt": "Hops n Grains",
+                "RestarauntAddress": "Panchkula, Panchkula District, Haryana, India",
+                "Reviews": "A must visit place if you are visiting Chandigarh Tricity."
+            },
+            {
+                "NameOfRestaraunt": "Pirates of Grill",
+                "RestarauntAddress": "313 Central Mall 3rd Floor Shop No, Chandigarh, India",
+                "Reviews": "We visited pirates of grill Chandigarh in July 2019 with family."
+            },
+            {
+                "NameOfRestaraunt": "Piccante",
+                "RestarauntAddress": "178 Industrial & Business Park, Chandigarh, India",
+                "Reviews": "We had an amazing dining experience at the Picante, Hyatt Chandigarh that"
+            },
+            {
+                "NameOfRestaraunt": "Black Lotus",
+                "RestarauntAddress": "9 Block No, Chandigarh, India",
+                "Reviews": "speciality restaurant, serves the best, most authentic Schezwan cuisine in Chandigarh."
+            },
+            {
+                "NameOfRestaraunt": "Sethan Da Dhaba",
+                "RestarauntAddress": "Chandigarh-Delhi National Highway, Zirakpur, Chandigarh, India",
+                "Reviews": "One of the famous dhaba on Ambala Chandigarh."
+            },
+            {
+                "NameOfRestaraunt": "Indian Coffee House",
+                "RestarauntAddress": "Sco 12 Indian Coffee House Near Neelam Cinema, Chandigarh, India",
+                "Reviews": "Wish the Coffee House in Chandigarh stays for ever."
+            },
+            {
+                "NameOfRestaraunt": "Monica's Puddings & Pies",
+                "RestarauntAddress": "Booth No. 20 & 21, Inner Market, Sector 8B, Near State Bank of India ATM, Sector 8, Chandigarh, India",
+                "Reviews": "I have been visiting this place when ever I am in Chandigarh."
+            }
+        ]
+    }
+]
